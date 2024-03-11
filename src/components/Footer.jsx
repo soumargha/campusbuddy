@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import '../css&js/footer.css'
 import { motion } from "framer-motion"
